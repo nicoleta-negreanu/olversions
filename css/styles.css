@@ -1,0 +1,53 @@
+html {
+  margin: 40px;
+  padding: 40px;
+}
+
+b {
+  outline: 12px solid #d1a796;
+}
+
+body {
+  font-family: 'Handlee', cursive;
+  background-color: rgb(61, 160, 185);
+  font-size: 33pt;
+  padding: 30px;
+  margin: 0;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  font-size: 25px;
+  color: #85e4e0;
+  text-align: left;
+  padding: 18px 0 18px 0;
+  margin: 0 0 10px 0;
+}
+
+h1 span {
+  border: 10px dashed #1bd3f3;
+  padding: 10px;
+}
+
+.img-circle {
+  border: 13px solid rgb(146, 220, 233);
+  border-radius: 50%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgb(93, 8, 163);
+  border-width: 5px;
+  width: 5%;
+}
+
+h3 {
+    color: #395B64;
+}
